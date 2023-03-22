@@ -1,5 +1,7 @@
 ### Hi there i'm Tasnim Gharaibeh 👋
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
+<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <!--
 **gharaibehtasnim/gharaibehtasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
