@@ -1,28 +1,24 @@
 ### Hi there i'm Tasnim Gharaibeh 👋
 <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tasnimghraibeh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- Hi, I'm Tasnim Gharaibeh! 👋
+
 ## 🚀 About Me
 
 I'm a full stack developer...
     
-- 👩‍💻 I'm currently working on...
 
-- 🧠 I'm currently learning...
+- 🧠 I'm currently learning fullstack development
 
 - 👯‍♀️ I'm looking to collaborate on...
 
 - 🤔 I'm looking for help with...
 
-- 📝 I regularly write articles on
 
 - 💬 Ask me about...
 
-- 📫 How to reach me...
+- 📫 How to reach me tasnim.gharaibeh@gmail.com
 
--- 📄 Know about my experiences
 
-- 😄 Pronouns...
 
 - ⚡️ Fun fact...
 <a href="https://nodejs.org" target="blank">
