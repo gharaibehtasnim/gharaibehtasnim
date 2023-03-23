@@ -1,5 +1,6 @@
-### Hi there i'm Tasnim Gharaibeh 👋
 <img src="https://media.licdn.com/dms/image/D4D16AQE2eEINL6FIaA/profile-displaybackgroundimage-shrink_350_1400/0/1679516775758?e=1684972800&v=beta&t=rtZ6EwO7QM2ED9b4cGPNCXnYmF21JOde2z6QdmSf_gI"/>
+ Hi there i'm Tasnim Gharaibeh 👋<br></br>
+ You Can Contact me with below :<br></br>
 <a href="mailto:Youremail?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tasnimghraibeh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
