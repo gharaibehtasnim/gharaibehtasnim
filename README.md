@@ -8,21 +8,12 @@
 
 
 🎓 I'm Tasnim Gharaibeh, a Full Stack Web Developer <br></br>
-- 🧠 I'm currently learning fullstack development<br></br>
 
 👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.<br></br>
 📝I finished quite recently two Full Apps from zero (Backend & Frontend ) one of them was for
  :hospital: Hospital and and the other was
 🛒 e-commerce app<br></br>
 👩‍🏫 Love teaching and sharing knowledge<br></br>
-
-- 👯‍♀️ I'm looking to collaborate on...
-
-- 🤔 I'm looking for help with...
-
-
-- 💬 Ask me about...
-
 - 📫 How to reach me tasnim.gharaibeh@gmail.com
 
 
@@ -73,6 +64,7 @@
 </a>
 </p>
      <h3>:thought_balloon: Quotes:</h3>
+     <hr>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Jokes Card" />
 
 
