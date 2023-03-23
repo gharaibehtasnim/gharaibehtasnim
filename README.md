@@ -12,6 +12,7 @@
 📝I finished quite recently two Full Apps from zero (Backend & Frontend ) one of them was for
 Hospital and and the other was
 🛒 e-commerce app
+👩‍🏫 Love teaching and sharing knowledge
 - 🧠 I'm currently learning fullstack development
 
 - 👯‍♀️ I'm looking to collaborate on...
@@ -25,7 +26,8 @@ Hospital and and the other was
 
 
 
-- ⚡️ Fun fact...
+## ⚒️ Skills
+<hr>
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
