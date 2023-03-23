@@ -6,9 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a full stack developer...
-    
 
+🎓 I'm Tasnim Gharaibeh, a Full Stack Web Developer
+👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.
+📝I finished quite recently two Full Apps from zero (Backend & Frontend ) one of them was for
+Hospital and and the other was
+🛒 e-commerce app
 - 🧠 I'm currently learning fullstack development
 
 - 👯‍♀️ I'm looking to collaborate on...
