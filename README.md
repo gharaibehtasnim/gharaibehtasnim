@@ -7,13 +7,14 @@
 ## 🚀 About Me
 
 
-🎓 I'm Tasnim Gharaibeh, a Full Stack Web Developer
-👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.
+🎓 I'm Tasnim Gharaibeh, a Full Stack Web Developer <br></br>
+- 🧠 I'm currently learning fullstack development<br></br>
+
+👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.<br></br>
 📝I finished quite recently two Full Apps from zero (Backend & Frontend ) one of them was for
  :hospital: Hospital and and the other was
-🛒 e-commerce app
-👩‍🏫 Love teaching and sharing knowledge
-- 🧠 I'm currently learning fullstack development
+🛒 e-commerce app<br></br>
+👩‍🏫 Love teaching and sharing knowledge<br></br>
 
 - 👯‍♀️ I'm looking to collaborate on...
 
@@ -71,7 +72,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=gharaibehtasnim" alt="gharaibehtasnim" />
 </a>
 </p>
-     <h3 Quotes:</h3>
+     <h3>:thought_balloon: Quotes:</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Jokes Card" />
 
 
