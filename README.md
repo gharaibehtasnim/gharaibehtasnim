@@ -10,7 +10,7 @@
 🎓 I'm Tasnim Gharaibeh, a Full Stack Web Developer
 👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.
 📝I finished quite recently two Full Apps from zero (Backend & Frontend ) one of them was for
-Hospital and and the other was
+ :hospital: Hospital and and the other was
 🛒 e-commerce app
 👩‍🏫 Love teaching and sharing knowledge
 - 🧠 I'm currently learning fullstack development
@@ -71,20 +71,7 @@ Hospital and and the other was
 <img src="https://github-profile-trophy.vercel.app/?username=gharaibehtasnim" alt="gharaibehtasnim" />
 </a>
 </p>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+     <h3> :thought_balloon: Quotes:</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Jokes Card" />
 
-<!--
-**gharaibehtasnim/gharaibehtasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
