@@ -64,6 +64,8 @@ I'm a full stack developer...
 </a>
 </p>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Jokes Card" />
+
 <!--
 **gharaibehtasnim/gharaibehtasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
