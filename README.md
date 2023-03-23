@@ -71,7 +71,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=gharaibehtasnim" alt="gharaibehtasnim" />
 </a>
 </p>
-     <h3> :thought_balloon: Quotes:</h3>
+     <h3 Quotes:</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" alt="Jokes Card" />
 
 
