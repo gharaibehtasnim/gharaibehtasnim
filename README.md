@@ -61,7 +61,7 @@ Hospital and and the other was
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
 </a>
 <br></br>
-     ## :octocat: My GitHub Stats:
+     ### :octocat: My GitHub Stats:
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gharaibehtasnim&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="gharaibehtasnim stats card" /></p>
 
